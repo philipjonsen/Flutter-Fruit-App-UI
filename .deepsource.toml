@@ -1,0 +1,22 @@
+version = 1
+
+[[analyzers]]
+name = "shell"
+
+[[analyzers]]
+name = "swift"
+
+[[analyzers]]
+name = "cxx"
+
+[[analyzers]]
+name = "csharp"
+
+[[transformers]]
+name = "dotnet-format"
+
+[[transformers]]
+name = "swift-format"
+
+[[transformers]]
+name = "clang-format"
